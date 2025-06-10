@@ -17,3 +17,6 @@ int main()
     {
       cout << "default pengecualiaan dieksekusi" << endl;
     }
+
+    return 0;
+}
