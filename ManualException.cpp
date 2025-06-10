@@ -9,3 +9,6 @@ int main()
         throw("halo");
         cout << "pernyataan tidak akan dieksekusi " << endl;
     }
+      catch(int a)
+    { 
+        cout << "pengecualian akan dieksekusi" << endl;
